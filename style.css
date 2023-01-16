@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+input{
+    width: 400px;
+    padding: 12px;
+    font-size: 20px;
+    border: 3px solid #0065c3;
+    border-radius: 6px;
+    font-weight: 700;
+    margin-bottom: 30px;
+}
+
+#addTask{
+    width: 80px;
+    padding: 12px;
+    font-size: 18px;
+    color: whitesmoke;
+    background-color: #0065c3;
+    border: 3px solid #0065c3;
+    border-radius: 6px;
+}
